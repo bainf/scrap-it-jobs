@@ -1,0 +1,30 @@
+every Odesk announce should have:
+- Title
+- Job Type
+    - Fixed-Price :
+        - Budget
+    - Hourly :
+        - nbr hours
+        - Hourly rate
+    - estimated time
+- Description
+- Client info
+- Skills needed
+
+
+every Elance announce should have:
+- Title
+- Job Type
+    - Fixed-Price :
+        - Budget
+    - Hourly :
+        - nbr hours
+        - Hourly rate
+    - estimated time
+    - posted
+    - ends
+    - Nbr of Proposals
+- Description
+- Categories
+- Client info
+- Skills needed
